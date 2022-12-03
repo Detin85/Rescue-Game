@@ -1,2 +1,3 @@
-# Jogo-de-Resgate
-Jogo de resgate muito divertida
+# Rescue-Game
+
+Creating the game using HTML, CSS and JavaScript.
